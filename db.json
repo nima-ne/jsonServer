@@ -549,14 +549,14 @@
       "alt": "buy icon"
     }
   ],
-  "right-device": [
+  "rightDevice": [
     {
       "id": "1",
       "src": "https://iili.io/2sGqaPn.webp",
       "alt": "device"
     }
   ],
-  "topic-left-device": [
+  "topic-leftDevice": [
     {
       "id": "1",
       "tittleDevice": "تماشای فیلیمو با همه دستگاه‌ها",
